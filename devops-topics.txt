@@ -1,0 +1,5 @@
+git - github
+docker , spring boot, rest api
+kubernetes - pods , replicasets , deployments , clusterIP,nodeport, loadbalancer , ingress
+helm,ansible
+terraform
